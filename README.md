@@ -1,2 +1,2 @@
 # treasurehunt
-EECS 281 Project focused on using stack, queue, and deque functionality. Project 1 of EECS 281 Fall 2019
+Project 1 datastructs/algos focused on using stack, queue, and deque functionality to traverse a map and find treasure based on specific crewmates functionalities
